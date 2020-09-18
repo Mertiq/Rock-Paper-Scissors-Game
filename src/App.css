@@ -1,0 +1,45 @@
+ .genel{
+   background-color: #000000;
+ } 
+
+ .fotolar{
+ }
+
+ .ustfotolar{
+    margin-left: 10%;
+ }
+
+
+ .altfotolar{
+ }
+
+.kagit{
+  margin-left: 23%;
+  border-radius: 100%;
+}
+
+.tas{ 
+  margin-left: 10%;
+  border-radius: 100%;
+}
+
+.makas{ 
+  margin-left: 38%;
+  border-radius: 100%;
+}
+
+.yuvarla {
+  border-radius: 100%;
+}
+
+.sonuc_ekrani{
+  width: 500px;
+  height: 128px ;
+  margin-left: 700px;
+}
+
+.yazi {
+  font-size: 7.7mm;
+  font-family: 'Courier New', Courier, monospace;
+  color: wheat;
+}
